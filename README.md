@@ -4,8 +4,7 @@
 
 A common workpool class library
 
-> 该库还有 php 版本：https://github.com/mix-go/worker-pool
-
+> 该库还有 php 版本：https://github.com/mix-php/worker-pool
 ## Usage
 
 - 安装
